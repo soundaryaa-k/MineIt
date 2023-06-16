@@ -1,1 +1,1 @@
-# MineIt
+A web application of mines management system using RDBMS which has separate interfaces for Admin and Employee.Admin can view employees information accept or cancel employee's leave and can manipulate mines data.Employee can edit his/her details and request for leave.
